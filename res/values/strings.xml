@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">wifidirect</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_text">Show Nearby Devices</string>
+    <string name="button1_text">Switch on Bluetooth</string>
+    <string name="button2_text">Switch off Bluetooth</string>
+</resources>
